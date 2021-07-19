@@ -12,3 +12,7 @@ Today's date
 ## App usage
 
 - Browse to the app URL (substitute `<x>` and `<y>` with two values to be summed): `http://<app-url>/api/calculator/add?x=<x>&y=<y>`.
+
+## Jenkins pipeline syntax
+
+![Jenkins Build](jenkins-build-image.jpg)
